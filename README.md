@@ -57,7 +57,7 @@ nano /etc/net/ifaces/ens192/resolv.conf
 ```
 search au-team.irpo
 nameserver 127.0.0.1
-nameserver 192.168.0.2
+nameserver 192.168.0.2 [Адрес HQ-SRV, а дальше по названию машин понятно какие адреса сувать]
 nameserver 77.88.8.8
 ```
 
