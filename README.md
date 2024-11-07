@@ -1,5 +1,4 @@
-# Demo2025
-## HQ-SRV
+# HQ-SRV
 ```
 TYPE=eth
 DISABLED=no
